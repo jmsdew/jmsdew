@@ -19,4 +19,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmsdew&theme=default_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmsdew)](https://solved.ac/jmsdew/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmsdew)](https://solved.ac/jmsdew/)
