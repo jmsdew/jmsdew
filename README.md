@@ -4,7 +4,6 @@
 풀스택 개발자를 목표로 공부하고 있습니다.
 
 * e-mail : <jmsdew@naver.com> <br>
-* phone : 010-6411-9074
 
 공부하는 기술 <br>
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
